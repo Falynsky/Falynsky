@@ -25,7 +25,7 @@
 
 <a href="#"><img align="left" style="margin-right:5px;margin-top:5px;" alt="Terminal" title="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a><br><br>  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Falynsky&count_private=true&show_icons=true&theme=onedark&hide=prs,issues&custom_title=Falynsky%20GitHub%20Stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=Falynsky&count_private=true&show_icons=true&theme=darcula&hide=prs,issues&custom_title=Falynsky%20GitHub%20Stats)
 
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Falynsky&layout=compact&theme=onedark)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Falynsky&layout=compact&theme=darcula)
