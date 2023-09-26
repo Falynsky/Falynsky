@@ -7,8 +7,6 @@
 
 <a href="#"><img align="left" alt="Flutter" title="Flutter" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" /></a>
 
-<a href="#"><img align="left" alt="Dart" title="Dart" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" /></a>
-
 <a href="#"><img align="left" alt="Angular" title="Angular" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" /></a>
 
 <a href="#"><img align="left" alt="Git" title="Git" style="margin-right:5px;margin-top:5px;" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" /></a>
