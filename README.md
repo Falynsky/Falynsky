@@ -1,5 +1,6 @@
 # Hello there, I'm Kamil [Falynsky] 👋
 ## I'm a Flutter Developer
+
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-falinski/)
 
 ### Languages and Tools:
