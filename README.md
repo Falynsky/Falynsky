@@ -30,5 +30,5 @@
 <a href="https://pub.dev/packages/easy_localization" target="blank"><img src="https://img.shields.io/badge/easy_localization-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="easy_localization" /></a>
 
 ### Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="falynsky" src="https://github-readme-stats.vercel.app/api?username=Falynsky&count_private=true&show_icons=true&theme=darcula&hide=prs,issues&custom_title=Falynsky%20GitHub%20Stats" height="182px" width="385rem" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="falynsky" src="https://github-readme-stats.vercel.app/api?username=Falynsky&count_private=true&show_icons=true&theme=darcula&custom_title=Falynsky%20GitHub%20Stats" height="182px" width="385rem" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="falynsky" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falynsky&langs_count=4&layout=compact&hide=swift,Objective-C,kotlin&theme=darcula&exclude_repo=pznu,oldCuban" height="182px"  width="270rem"/></a>
