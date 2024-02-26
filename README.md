@@ -3,6 +3,11 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-falinski/)
 
+### Contributions at:
+<a href="https://pub.dev/packages/cached" target="blank"><img src="https://img.shields.io/badge/cached-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="cached" /></a>
+<a href="https://pub.dev/packages/theme_tailor" target="blank"><img src="https://img.shields.io/badge/theme_tailor-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="theme_tailor" /></a>
+<a href="https://pub.dev/packages/linteo" target="blank"><img src="https://img.shields.io/badge/linteo-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="linteo" /></a>
+
 ### Languages and Tools:
 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
